@@ -30,6 +30,8 @@
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet" />
     <link href="assets/css/about.css" rel="stylesheet" />
+    <link href="assets/css/e_store.css" rel="stylesheet" />
+
 
 </head>
 

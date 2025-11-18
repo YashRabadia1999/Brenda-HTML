@@ -1,0 +1,103 @@
+.productheading {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+    font-family: "tahoma";
+    text-align: left;
+    margin: 0 15px;
+}
+
+.add_to_cart_button{
+     display: inline-block;
+    background: #800099; /* Purple */
+    color: #fff;
+    padding: 10px 18px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.2s ease;
+}
+
+.add_to_cart_button:hover {
+    background: rgb(120, 88, 153);
+    color: #fff;
+}
+
+.card_body_style{
+    background-color:#F5F5F5;
+     border: 1px solid lightgrey;
+  
+}
+.woocommerce-Price-currencySymbol{
+ font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.woocommerce ul.products li.product .price {
+    color: #77a464;
+    display: block;
+    font-weight: 400;
+    margin-bottom: .5em;
+    font-size: .857em;
+}
+
+
+.woocommerce-Price-amount.amount {
+    font-size: 22px !important;
+    color: #000;
+}
+.woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
+    padding: .5em 0;
+    margin: 0;
+    font-size: 1em;
+}
+
+.woocommerce .products ul, .woocommerce ul.products {
+    margin: 0 0 1em;
+    padding: 0;
+    list-style: none outside;
+    clear: both;
+}
+
+
+.woocommerce-page.columns-3 ul.products li.product, .woocommerce.columns-3 ul.products li.product {
+    width: 30%;
+    border: 1px solid;
+    text-align: center;
+    margin: 20px 10px;
+    height: 490px !important;
+}
+.woocommerce ul.products li.product a img {
+    width: 100% !important;
+    min-height: auto !important;
+    display: block;
+    margin: 0 0 1em;
+    box-shadow: none;
+}
+
+.woocommerce-LoopProduct-link {width:100% !important;}
+form > p {
+    color: #fff;
+}
+
+.woocommerce-loop-product__title {
+	color: #000 !important;
+}
+.ashopadd{
+margin:10px 0px 10px 0px;}
+
+.sidebar h2{font-size:56px;}
+.bookspace {
+    margin: 20px 0 0px 0 !important;
+    border-bottom: #000 solid thin;
+    padding: 0px 0px 50px 0px;
+}
+.bookspace2 {
+    margin: 20px 0 0px 0 !important;
+    padding: 0px 0px 0px 0px;
+}
+.topbotom
+{
+margin:25px 0px;
+}
