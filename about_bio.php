@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 
-<section class="hero-section p-0">
+<section class="about-section p-0">
 
 <img src="assets/img/about.jpg" class="gold-curve" alt="" />
 </section>
