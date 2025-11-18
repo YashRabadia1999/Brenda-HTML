@@ -28,12 +28,13 @@ Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-rea
 
 @font-face {
   font-family: "FlemishScriptBT";
-  src: url("/assets/font/flemishscript-bt/flemishscript-bt.ttf");
+
+  src: url("../font/flemishscript-bt/flemishscript-bt.ttf");
 }
 
 @font-face {
   font-family: "BEAUCESC";
-  src: url("/assets/font/BEAUCESC.TTF");
+  src: url("../font/BEAUCESC.TTF");
 }
 
 @font-face {
