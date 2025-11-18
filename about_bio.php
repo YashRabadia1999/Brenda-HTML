@@ -6,7 +6,8 @@
 <img src="assets/img/about.jpg" class="gold-curve" alt="" />
 </section>
 
-<div class="single-content-area container">
+<section class="about-text">
+	<div class="single-content-area container">
 						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 topbotom">
 <h3>BRENDA ARNOLD-SCOTT MINISTRIES, INC.</h3>
 <p style="text-align: left;">Brenda Arnold-Scott Ministries also known as And God Said Ministries, Inc. &nbsp;is a &nbsp;ministry endeavor, fueled by the power of the Holy Spirit, through its founder and namesake, Brenda Arnold-Scott. It is a Texas corporation that is exempt under Section 501 (c) (3) of the Internal Revenue Code, under And God Said Ministries, Inc.. Other Brenda Arnold-Scott endeavors include: The PoeArt Company,&nbsp;IMPACT CDC, and EagleEase, LLC. These organizations&nbsp;are the&nbsp;vehicles that transport the multifaceted ministerial&nbsp;offerings of Brenda Arnold-Scott through multi-media venues. Rev. Dr. Arnold-Scott uses all of her endowments for the edification of humanity, to the glory of God.</p>
@@ -15,5 +16,6 @@
 </div>
 					</div>
 
+</section>
 
 <?php include 'footer.php'; ?>
