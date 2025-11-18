@@ -31,6 +31,8 @@
     <link href="assets/css/main.css" rel="stylesheet" />
     <link href="assets/css/about.css" rel="stylesheet" />
     <link href="assets/css/e_store.css" rel="stylesheet" />
+    <link href="assets/css/contact_us.css" rel="stylesheet" />
+
 
 
 </head>
